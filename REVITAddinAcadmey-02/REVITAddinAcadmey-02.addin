@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command REVITAddinAcadmey-02</Text>
+    <Description>Some description for REVITAddinAcadmey-02</Description>
+    <Assembly>REVITAddinAcadmey-02.dll</Assembly>
+    <FullClassName>REVITAddinAcadmey_02.Command</FullClassName>
+    <ClientId>395b40e9-f68a-4bfc-944a-065337b00aff</ClientId>
+    <VendorId>com.typepad.moninc</VendorId>
+    <VendorDescription>Mon And Associates Inc.</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Command cmdSession01Challenge</Text>
+    <Description>Some description for REVITAddinAcadmey-02</Description>
+    <Assembly>REVITAddinAcadmey-02.dll</Assembly>
+    <FullClassName>REVITAddinAcadmey_02.cmdSession01Challenge</FullClassName>
+    <ClientId>F8F4FFCD-4AEA-4204-8713-4465EA7CEF7D</ClientId>
+    <VendorId>com.typepad.moninc</VendorId>
+    <VendorDescription>Mon And Associates Inc.</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application REVITAddinAcadmey-02</Name>
+    <Assembly>REVITAddinAcadmey-02.dll</Assembly>
+    <FullClassName>REVITAddinAcadmey_02.App</FullClassName>
+    <ClientId>451a9e84-c414-4884-a5f4-ac28ffb1773d</ClientId>
+    <VendorId>com.typepad.moninc</VendorId>
+    <VendorDescription>Mon And Associates Inc.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
